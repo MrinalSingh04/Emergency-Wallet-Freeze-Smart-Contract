@@ -6,7 +6,7 @@ The **Emergency Wallet Freeze** contract is a security-focused smart contract wa
 If the wallet owner’s keys are compromised or the account is under attack, guardians can **vote to freeze** the wallet, blocking withdrawals until the situation is resolved.
 
 This adds a **social recovery + emergency pause layer** on top of standard crypto wallets, offering additional protection against hacks, phishing, and theft.
- 
+  
 ---   
        
 ## ⚡ What is it?   
