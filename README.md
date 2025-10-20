@@ -9,7 +9,7 @@ This adds a **social recovery + emergency pause layer** on top of standard crypt
    
 ---   
        
-## ⚡ What is it?    
+## ⚡ What is it?     
        
 A **smart contract wallet** with built-in freeze functionality:  
  
