@@ -11,7 +11,7 @@ This adds a **social recovery + emergency pause layer** on top of standard crypt
        
 ## ⚡ What is it?        
         
-A **smart contract wallet** with built-in freeze functionality:  
+A **smart contract wallet** with built-in freeze functionality:   
  
 - The **Owner** controls the wallet and funds under normal conditions.
 - **Guardians** are pre-approved trusted addresses (friends, family, or institutions).
