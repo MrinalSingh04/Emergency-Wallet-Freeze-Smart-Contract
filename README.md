@@ -8,7 +8,7 @@ If the wallet owner’s keys are compromised or the account is under attack, gua
 This adds a **social recovery + emergency pause layer** on top of standard crypto wallets, offering additional protection against hacks, phishing, and theft.
    
 ---         
-           
+            
 ## ⚡ What is it?                
             
 A **smart contract wallet** with built-in freeze functionality:    
